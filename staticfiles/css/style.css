@@ -74,7 +74,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #1e4356;
+  background: #0d1040;
 }
 
 #header.header-transparent {
@@ -82,7 +82,7 @@ h6,
 }
 
 #header.header-scrolled {
-  background: rgba(30, 67, 86, 0.8);
+  background: rgba(30, 36, 86, 0.8);
   height: 60px;
 }
 
@@ -2174,7 +2174,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0b212d;
+  background: #0d1035;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -2182,7 +2182,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #0d2735;
+  background: #0d1035;
 }
 
 #footer .footer-newsletter h4 {
@@ -2229,7 +2229,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #0d2735;
+  background: #0d1030;
   border-top: 1px solid #17455e;
   border-bottom: 1px solid #123649;
   padding: 60px 0 30px 0;
