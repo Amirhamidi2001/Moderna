@@ -11,4 +11,5 @@ urlpatterns = [
     path("portfolio/", portfolio_view, name="portfolio"),
     path("services/", services_view, name="services"),
     path("team/", team_view, name="team"),
+    path("newsletter/", newsletter_view, name="newsletter"),
 ]
